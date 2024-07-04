@@ -305,3 +305,9 @@ ion-icon {
   color: black;
 }
 
+.icon{
+  width: 25ps;
+  height: 25px;
+  margin-right: 5px;
+ 
+}
